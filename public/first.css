@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: auto;
+}
+.header{
+    background-color: beige;
+    height: 70px;
+}
+.name{
+    display: block;
+    margin: auto;
+    font-size: 30px;
+}
+button{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 130px;
+    width: 40%;
+    font-size: 30px;
+}
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
